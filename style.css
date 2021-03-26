@@ -86,14 +86,14 @@ h1
        left: 100px;
        position: relative;
    }
-   html{
+  /* html{
        /*background-image: url(rose.jpg) ;
        background-repeat: no-repeat;
        background-size: cover;*/
 
        /*background-image: linear-gradient(to bottom,blue,green,purple);*/
-      /* background-image: radial-gradient(blue,green,purple);*/
-   }
+      /* background-image: radial-gradient(blue,green,purple);}*/
+   
 
 nav{
     background-color: rgb(224, 235, 229);
